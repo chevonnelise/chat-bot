@@ -6,11 +6,11 @@
 
 <img width="758" alt="Screen Shot 2024-04-17 at 4 32 08 PM" src="https://github.com/chevonnelise/chat-bot/assets/114272460/6d1f07e4-1809-434b-89c8-6d50353d8250">
 
-## Built With\
+## Built With
 * ReactJS
 * ViteJS
 * OpenAI's ChatGPT 3.5 Turbo API
 
-## Acknowledgement\
+## Acknowledgement
 **Image Credits**\
 [Chatbot] [chatbot.png](https://www.flaticon.com/free-icons/chatbot) *Image Credit: [Freepik]*
