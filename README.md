@@ -4,7 +4,7 @@
 * This chatbot uses OpenAI's Chat Generative Pretrained Transformer (ChatGPT) API to generate responses to user queries.<br>
 [Live Link](https://chat-bot-chatgpt.netlify.app)
 
-<img width="758" alt="Screen Shot 2024-04-17 at 4 32 08 PM" src="https://github.com/chevonnelise/chat-bot/assets/114272460/6d1f07e4-1809-434b-89c8-6d50353d8250">
+<img width="420" alt="Screen Shot 2024-04-20 at 1 00 16 PM" src="https://github.com/chevonnelise/chat-bot/assets/114272460/cad1c50e-b124-4252-a623-7de3cff4cdc6">
 
 ## Built With
 * ReactJS
