@@ -12,5 +12,5 @@
 * OpenAI's ChatGPT 3.5 Turbo API
 
 ## Acknowledgement
-**Image Credits**
+**Image Credits**<br>
 [Chatbot] [chatbot.png](https://www.flaticon.com/free-icons/chatbot) *Image Credit: [Freepik]*
