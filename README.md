@@ -1,6 +1,6 @@
 ## About This Project
 **User Problems & Pain Points**
-* As a software developer with less than 1 year of experience and a keen interest in Large Language Models(LLMs), prompt engineering and Generative Artificial Intelligence (GenAI), I built a chatbot that takes on the persona of 'a software developer with 1 year of experience' to answer questions from my perspective.
+* As a software developer with less than 1 year of experience and a keen interest in Large Language Models(LLMs), prompt engineering and Generative Artificial Intelligence (GenAI), I built a chatbot that takes on the persona of 'a software developer with 1 year of experience' to answer questions from a junior developer's perspective.
 * This chatbot uses OpenAI's Chat Generative Pretrained Transformer (ChatGPT) API to generate responses to user queries.<br>
 [Live Link](https://chat-bot-chatgpt.netlify.app)
 
